@@ -1,0 +1,1160 @@
+#EXTM3U 
+****************************** 3D ******************************
+#EXTINF:0, /romancetv
+http://81.183.123.31:9003/play/romancetv
+#EXTINF:0, 1
+http://cdn.vidible.tv/prod/player/swf/latest/vpaid-shim.swf?pid=52ee3aaae4b0906a95a168c9&adOnly=true&bcid=5176c647e4b09e5e67af5b27&m.cb=1445192130&m.url=http://sawlive.tv
+#EXTINF:0, 1
+rtmp://web3.iptv-planet.com:1937/live2 playpath=artaflam2?key=084104117032078111118032048053032048053032052050 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400
+#EXTINF:0, 1
+http://82.76.249.77/digi24edge/digi24brasovlive/chunklist.m3u8
+#EXTINF:0, 1
+http://llmd.shahid.net/media/ll/2fda1d3fd7ab453cad983544e8ed70e4/093765d4fb754130a19185ea9253bfc9/003e99b3c5f24332abcf596d6c1003a7/the_voice_s03_e04.mpegts/playlist-218d447a589d1b04a5918d82cfff0403ee1df75b.m3u8
+#EXTINF:0, 1
+http://live.p2pcast.tv:8010/tv2/500479.m3u8?sf=NTVlMWEzY2UwNjkzYg==&token=aneKe6phvfev6LLbagSPUg
+#EXTINF:0, 1
+http://nrttv.iptv-playoutcenter.de:1935/nrt1/nrt1.stream_1/playlist.m3u8
+#EXTINF:0, 1
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
+#EXTINF:0, 1
+http://77.22.99.105:8001/1:0:1:39:F:85:C00000:0:0:0:
+#EXTINF:0, 1
+http://b.scorecardresearch.com/b?c1=7&c2=8097938&rn=1190792772&c7=http://seg.sharethis.com/getSegment.php?purl=http://showsport-tv.com/watch/bein-sport-1-live-stream&jsref;=&rnd=1446170875646&c3=8097938&c8=ShareThis Segmenter&c9=http://showsport-tv.com/watch/bein-sport-1-live-stream&cv=2.2&cs=js
+#EXTINF:0, 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/753.m3u8
+#EXTINF:0, 1
+rtmp://192.240.125.26:443/live?AHx0SNCnIJsbJmmSXOMD5bTBsfDRoMZZlive_mega_chavo http://vaughnlive.tv/4365714339
+#EXTINF:0, 1
+rtmp://sa6.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTYgMjo4OjQwIFBNJmhhc2hfdmFsdWU9NmdvTlRHdFljQTNDbnpZZ3psQ0p5dz09JnZhbGlkbWludXRlcz02MDAw/irinn-500k.stream
+#EXTINF:0, 1
+http://95.170.220.243/live/disk1/Dalkurd_Live/anevia1/Dalkurd_Live-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
+#EXTINF:0, 1
+http://185.53.163.73:9981/stream/channelid/2017576982
+#EXTINF:0, 1
+http://163.172.209.93:8085/RealMadridBetis-eaglestreams-com/mono.m3u8
+#EXTINF:0, 1
+http://300panelpro300.com:8080/get.php?username=ridvandemir&password=23091612rd&type= m3u_plus&….
+#EXTINF:0, 1
+http://178.33.122.128:16000/get.php؟username=Mode053&password=aGOjAyrC44&type=m3u
+#EXTINF:0, 1
+http://211.210.157.148:9981/playlist
+#EXTINF:0, 1
+http://livetvkodiserbia.com/addonxml/m3u/extreme-exyu.m3u8
+#EXTINF:0, 10000
+http://fra1.ddns.net:97/get.php?username=amir&password=amir&type=m3u
+#EXTINF:0, 11
+http://server.hitlantv.com:8080/get.php?username=koray&password=koray123&type=m3u
+#EXTINF:0, 111
+http://cdn.looktv.mn:8080/vods3/_definst_/smil:amazons3/bb-media-tokyo/2c9f890e523a284a01523f1e03060074/preview/2c9f890e523a284a01523f1e03060074.smil/playlist.m3u8
+#EXTINF:0, 1111
+http://164.132.161.193:8000//streaming/clients_live.php?username=456789&password=456789&stream=1399&extension=ts&hash=b59f886c5ec8a66df459cd6d9ae2e94a&time=1469242977&external;_device=.m3u
+#EXTINF:0, 12
+http://tvtelekom.com:1935/nettv/nettv/playlist.m3u8
+#EXTINF:0, 12
+http://91.12.58.28:8080/11.m3u8
+#EXTINF:0, 123
+http://89.212.40.45:1234/udp/239.14.2.7:5000
+#EXTINF:0, 123
+http://smart-iptv2016.com:9500/get.php?username=stream156&password=0610509511&type=m3u
+#EXTINF:0, 13
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv
+#EXTINF:0, 133
+http://livestream-hlsvod.oss-cn-beijing.aliyuncs.com/online/101_stream_alias_858682738_68610_1476625418.m3u8
+#EXTINF:0, 15947897984
+http://ds-iptv.dyndns.org:8000/live/cosimo/cosimo/135.m3u8
+#EXTINF:0, 2
+rtmp://www.teledunet.com:1935/teledunet/jsc_2 swfUrl=http://www.teledunet.com/player.swf?id0=82941933671400&skin=bekle/bekle.xml&channel=jsc_2 pageUrl=http://www.teledunet.com/ live=1
+#EXTINF:0, 2
+rtmp://146.185.25.162/live playpath=plu11112?id=13465 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK â€“live
+#EXTINF:0, 2
+rtmp://174.36.220.201/live playpath=fregregerg?id=181857 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/fregregerg/1/600/380 conn=S:OK â€“live
+#EXTINF:0, 2
+http://tg4-lh.akamaihd.net/EirBeo1_1200_tg4@118693?videoId=2538842141001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&lineUpId;=&pubId=1290862567001&playerId=1364138050001&affiliateId;=&bandwidthEstimationTest=true&v=3.3.0&fp=WIN 13,0,0,182&r=MWDOQ&g=TPANMNTKXCBN
+#EXTINF:0, 2
+http://dmtn.tv:8080/get.php?username=urWmHXJf85&password=TmFJOt0KSC&type=m3u
+#EXTINF:0, 22
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:0, 232
+http://184.173.203.22:1935/plug/plug_tem_fm.stream/playlist.m3u8
+#EXTINF:0, 24hr
+http://www.dailymotion.com/cdn/manifest/video/x25rtou.m3u8?auth=1455216187-2562-opn3y95q-1f1d32e41ee3dc420fce874bffd74340
+#EXTINF:0, 2m
+http://flv.alarab.com:8080/flv/100478.flv
+#EXTINF:0, 2q
+rtmp://edge02.mixlr.com:443/live playpath=b78cee2d85394365b3e12fdd2ca2bbf2 swfUrl=http://mixlr.com/v2/sm2_2013_2/soundmanager2_flash9.swf pageUrl=http://mi
+#EXTINF:0, 2Time Browser Free Plays M3U8 Streams for IOS
+https://appsto.re/us/pIkJdb.i
+#EXTINF:0, 2webcam
+http://cdn-03.whatsupcams.com/hls/it_lunigiana01.m3u8
+#EXTINF:0, 3
+rtmp://78.100.61.60/live/ playpath=mbc.sdp swfUrl="http://www.elahmad.com/tv/swf/mbctv.swf?elahmad=mbc&autostart=true&" pageUrl="http://www.elahmad.com/tv/mbc.htm" timeout=60
+#EXTINF:0, 3
+http://wachtv.org:8000/get.php?username=marjorie1&password=marjorie1&type=m3u
+#EXTINF:0, 324-noflv
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_324
+#EXTINF:0, 33
+http://live.tutvgratis.tv/view/de-pelicula.m3u8
+#EXTINF:0, 34
+rtmp://213.186.127.42:1935/live/ playpath=rus1.stream swfUrl=http://kaban.tv/uppod.swf live=1 pageUrl=http://kaban.tv:Ð Ð¾ÑÑÐ¸Ñ 1
+#EXTINF:0, 36
+http://clientportalpro.com:2500/get.php?username=6FQx0MJQvs&password=iptv4stars21_7&type=m3u
+#EXTINF:0, 3ser
+http://akmd.shahid.net/mediaDelivery/media/07434cdb029147bcbe09694af486aa64.m3u8
+#EXTINF:0, 4
+http://iptv.iptvthebest.net:15000/get.php?username=aipcfumj&password=r97s3ZaC9o&type=m3u
+#EXTINF:0, 44
+http://87.246.0.134:59349/tv_XXL
+#EXTINF:0, 45
+http://painel.ebanonet.com.br:25461/live/areia/areia/9483.ts
+#EXTINF:0, 454545
+http://51.255.66.63:8000//streaming/clients_live.php?username=melik&password=melik&stream=4744&extension=ts&hash=78a207f30bfa8c649a43eebf0bcf3d9a&time=1477394822&pid=24764&external_device=&on_demand=0&isp=&bitrate=450
+#EXTINF:0, 4k pt
+http://short.am/2R5Du5
+#EXTINF:0, 5
+http://hls.turkcelltv.com.tr/main/sinematv1001/sinematv1001_54.m3u8?token=577f9d2570a3f7e57e815b32c010959e
+#EXTINF:0, 5
+http://iptvfannansat.dyndns.id/vach968588/7856995/1.ch
+#EXTINF:0, 5
+rtmp://199.195.194.60/streamzincojunwq?id=2605&pk=663b52c6833cbf06a9464e853f937550ad183c31d393c54d61a08baeed37bcfe http://www.zony.tv/static/scripts/fplayer.swf http://www.zony.tv/embedplayer/zincojunwq/1/590/390
+#EXTINF:0, 6
+http://62.63.207.51:4242/udp/239.193.2.68:3301?auth=yes?
+#EXTINF:0, 6
+http://iptv.streamkings.co.uk:25461/xmltv.php?username=epg&password=epg&type=m3u
+#EXTINF:0, 60
+http://92.124.65.211:1234
+#EXTINF:0, 64
+http://cableking-iptv.com:8000/get.php?username=christy1&password=christy1&type=m3u
+#EXTINF:0, 66
+http://62.63.207.51:4242/udp/239.193.48.19:3301?auth=yes?
+#EXTINF:0, 7
+http://80.252.165.106:8086/udp/239.100.1.108:1234
+#EXTINF:0, 7
+http://iptvfullfannan.dyndns.tv:80/live?channelId=6&uid=4&deviceUser=haval&devicePass=swar123
+#EXTINF:0, 7
+rtmp://31.220.0.194:1935/live/iso-dzsat playpath=bns7 pageUrl=http://www.flashtv.co/iso-dzsat token=%ZZri(nKa@#Z #
+#EXTINF:0, 75
+http://5.196.85.16:8000/get.php?username=christy1&password=christy1&type=m3u
+#EXTINF:0, 76
+http://91.236.239.86:8080/get.php?username=www.ipmagtv.com&password=Mec2on-HHGhjJhkk&type=m3u
+#EXTINF:0, 777
+http://xn--1-5wf2bu3grb3c.com/
+#EXTINF:0, 8
+http://62.63.207.51:4242/udp/239.193.2.161:3301?auth=yes?
+#EXTINF:0, 8
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport8/sport8/sport8.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:0, 8195
+http://ajcoll5.no-ip.biz:8086/stream.m3u
+#EXTINF:0, 84
+http://otmanshowiptv.com:7777/get.php?username=0628724613baneddeja&password=r3X6efrxjJ&type=m3u
+#EXTINF:0, 87
+http://51.254.45.5/get.php?username=debbie&password=debbie1&type=m3u
+#EXTINF:0, 875
+http://cdnakamaipro1.akaimaiserversprofessionl123x16.pw:1935/live/_definst_/box2/playlist.m3u8
+#EXTINF:0, 88
+http://62.63.207.51:4242/udp/239.193.48.14:3301?auth=yes?
+#EXTINF:0, 9
+http://62.63.207.51:4242/udp/239.193.2.193:3301?auth=yes?
+#EXTINF:0, 9
+http://85.14.32.3:5555/udp/239.100.102.54:8888
+#EXTINF:0, 9
+http://85.14.32.3:5555/udp/239.100.102.54:8888
+#EXTINF:0, 96
+http://193.70.13.232:25461/get.php?username=App0015&password=DqAcq94O3G3&type=m3u
+#EXTINF:0, 98fm unai
+http://suaradio2.dyndns.ws:10826/stream
+#EXTINF:0, a
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Fox http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Fox_Life_Italia
+#EXTINF:0, a
+http://31.12.64.204:8000/A-RADIO-80s-JUICE
+#EXTINF:0, a
+http://ilililililililmaqililili.duxmedia.org/playlist?type=m3u&deviceUser=aa&devicePass=aaa
+#EXTINF:0, a
+http://46.246.41.79:9981/stream/channelid/1180753932?ticket=236FA6F19F97CDB38F0AB934B0C173008E008577&profile=pass
+#EXTINF:0, a
+http://127.0.0.1:51868/proxy?sid=cd12a81c&file=0
+#EXTINF:0, a
+http://78.131.2.130:9981/stream/channelid/2074945590
+#EXTINF:0, A
+http://id.warungtv.com:8888/get.php?username=sophie&password=iptv&type=m3u&output=ts
+#EXTINF:0, A.S 1
+http://balkanstream.com/stream/arenasport1hr/si-zd003/hri87hf
+#EXTINF:0, A.S 2
+http://balkanstream.com/stream/arenasport2sr/si-zd003/hri87hf
+#EXTINF:0, A.S 4
+http://balkanstream.com/stream/arenasport4sr/si-zd003/hri87hf
+#EXTINF:0, a1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2
+#EXTINF:0, a2
+http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:0, aa
+http://164.132.161.193:8000//streaming/clients_live.php?username=456789&password=456789&stream=1399&extension=ts&hash=b59f886c5ec8a66df459cd6d9ae2e94a&time=1469242977&external;_device=
+#EXTINF:0, aa
+http://e56e36e5.iptvbot.ru/iptv/9P5USCE9TYEXHZ/902/index.m3u8
+#EXTINF:0, aa
+http://santaclaus1968.dyndns.tv:1920/get.php?username=lilloschwiegervatererne&password=napol44333524419&type=m3u_plus&output=ts
+#EXTINF:0, aaa
+rtmp://star.010e.net:8000/live/mohammedalhanaya/wehjfgweuifh
+#EXTINF:0, aaa
+http://90.229.173.167:8000/play/a020/index.m3u8
+#EXTINF:0, Aajtak
+rtsp://217.146.95.166:554/playlist/ch29yqcif.3gp
+#EXTINF:0, abc
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0, abc
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0, Abc
+rtmp://94.102.63.54:1935/edge?xs=_we_Mzcxamx1aXJsamNzamVufDE0ODQ3OTc2NjZ8MTg3LjIwLjI0NS44MHw1ODdlZTU2MjQ1YTE0fGYyNWU1OTg0MDkxMzhjMWYzOTU3NGM3YTE3ZWFjYmFjYWNjYjRhYzA.&userId=MzI3MjAzfDE0ODQ3OTc2NjZ8ODY3OGQzMjk3NmI1ZDMxMDRkMTgyNDg0NGFjMjk5OWI3YTk3N2UyYQ..371jluirljcsjen http://www.streamlive.to/player/Player.swf?1484711266 http://www.streamlive.to/embedplayer_new2.php?width=658&height=430&channel=68969&autoplay=true
+#EXTINF:0, abc
+http://hls.megadash.xyz/s/amcc372/oe69e.m3u8?h=lsMnGl8oGWhjdQfnVuC7DQ
+#EXTINF:0, ABC NEWS LIVE USA
+http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+#EXTINF:0, abudahbi
+rtmp://www.teledunet.com:1935/teledunet/abu_dhabi playpath=abu_dhabi swfUrl=http://www.teledunet.com/mobile/player.swf?id0=2297683325630&channel=abu_dhabi pageUrl=http://www.teledunet.com/mobile/?con conn=N:1 flashVer=Win13,0,0,214 swfVfy=true live=true timeout=15
+#EXTINF:0, abudhabi
+rtmp://tdsiptv.ddns.me/live playpath=ch74?code=3a8721cf4940e235a5b75935d39d1744 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/Abu-Dhabi-Drama-en-direct-live.html flashVer=WIN12,0,0,77 timeout=15 live=true
+#EXTINF:0, abuthabi
+rtmp://5.135.134.110:1935/teledunet/plugin://arabic/teledunet/play/abu_dhabi_drama app=teledunet swfUrl=http://www.teledunet.com/mobile/player.swf?id0=0&channel=abu_dhabi_drama playpath=abu_dhabi_drama live=1 pageUrl=http://www.teledunet.com/mobile/ flashVer=WIN\2014,0,0,145 swfVfy=true timeout=20
+#EXTINF:0, acv
+http://acvonline.asianetmobiletvplus.com/channels/acvnews/acvnews_xcorpchfqlkkpwryjgvl_master.m3u8
+#EXTINF:0, adasd
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:0, afafe
+http://77.22.99.105:8001/1:0:1:39:F:85:C00000:0:0:0
+#EXTINF:0, Afaq
+rtmp://208.43.70.75/live/afaqtv//livestream swfUrl=http://www.afaq.tv/newsite/live/player/player-licensed.swf live=1 pageUrl=http://www.afaq.tv/
+#EXTINF:0, afc
+http://leaderpro.pt:25461/get.php?username=asdf&password=asdf&type=m3u
+#EXTINF:0, afdah
+https://lh3.googleusercontent.com/NR8bfjv_Go5cRqZDnFu7vn0CQZ6mNcjpPukKZwyH=m37
+#EXTINF:0, ahlam kabeera
+http://vgrp1.viewstream.co.il/viewstream/34/13/299/13299.flv?vtraffid=13299&ctra; ffid=34
+#EXTINF:0, Ahmed
+http://festyy.com/wqBdMh
+#EXTINF:0, aig tv
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, Al , , Fr
+http://5.189.187.55:8000/get.php?username=andre&password=andre&type=m3u
+#EXTINF:0, Al , De , Fr
+http://root-iptv.is-found.org:25461/get.php?username=Jaye&password=Jaye&type=m3u
+#EXTINF:0, Al , De , Fr
+http://root-iptv.is-found.org:25461/get.php?username=Jaye&password=Jaye&type=m3
+#EXTINF:0, al etejah
+http://38.96.175.119:1935/aletejahtv/aletejahtv1/playlist.m3u8
+#EXTINF:0, al fajer
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web//web
+#EXTINF:0, Al Falstiniah TV
+rtmp://46.43.64.166/flv/flv
+#EXTINF:0, Al, De, Fr
+http://cmskos.fastiptv.org:777/get.php?username=GzinS0pi&password=TbflPU0LzF&type=m3u
+#EXTINF:0, alanwarrr
+http://achams.com/HDboxTV/ajax.php?stream=live&type=reg&ppoint=AlAnwar_Med&
+#EXTINF:0, alarab
+http://flv2.alarab.com:8080/flv/94788.flv
+#EXTINF:0, alb
+http://alblive.org:80/get.php?username=toni1&password=toni2&type=m3u
+#EXTINF:0, alb
+http://alblive.org:80/get.php?username=dani&password=dani1234&type=m3u
+#EXTINF:0, Albanian
+http://orbit-iptv.com:2500/get.php?username=iptv100&password=iptv100&type=m3u
+#EXTINF:0, Albanian
+http://176.31.231.205:8000/get.php?username=iptvsubsunlimited@teleworm.us&passhdqyjd&type=m3u
+#EXTINF:0, Albanian
+http://185.82.110.67:4656/get.php?username=b&password=b&type=m3u
+#EXTINF:0, alfa1
+https://www.alfaconcursos.com.br/areadoaluno/meuscursosdetalhe/2269157/9/7594/36482
+#EXTINF:0, Alforat Tv
+rtmp://alforatlive.nanocdn.com/live/alforat256
+#EXTINF:0, Alhuraa
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0, Alhurra Iraq
+rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15 swfUrl=http://www.alhurra.com/player/player-licensed.swf live=1 pageUrl=http://www.alhurra.com/
+#EXTINF:0, Alhurria tv
+http://streamer1.hamuraabi.com:1935/hurria/live/playlist.m3u8
+#EXTINF:0, alkass
+http://shoof.alkass.net/shoof/play.php?id=QVpxMTR0MmZ0L0NYMD0q
+#EXTINF:0, alkauthar
+http://www.alkawthartv.com/live
+#EXTINF:0, all
+http://globiptv.com:8000/get.php?username=162&password=IStxQ83ZxN&type=m3u
+#EXTINF:0, all glob
+http://37.187.253.95:8000/get.php?userno&password=123456&type=m3u
+#EXTINF:0, all in
+http://149.202.93.187:8000/get.php?username=iUWMXk393L&password=JHsiF0r1gI&type=m3u
+#EXTINF:0, ALL THE WORLD
+http://149.202.208.25:5210/get.php?username=nGssword=pZVzv2wO40&type=m3u
+#EXTINF:0, ALL WORLD
+http://37.187.175.177:8000/get.php?username=a223&password=52&type=m3u&output=mpegts
+#EXTINF:0, ALL WORLD MIX 72H
+http://185.71.66.22:8000/get.php?username=lomantoiv&password=MZTD&type=m3u
+#EXTINF:0, Alrai Tv Q8
+mms://62.215.216.130/wmtencoder/alrai350.wmv
+#EXTINF:0, Altaghier
+http://stream1.joinvisions.net:1935/taglive/taghier/playlist.m3u8
+#EXTINF:0, amirca
+http://biwsat.com:8080/get.php?username=rNmrjAeWiH&prd=AkDwomgTTE&type=m3u
+#EXTINF:0, Amozhgary Tv
+rtmp://176.28.44.168/live/livestream swfUrl=http://amozhgary.tv/swf pageUrl=http://amozhgary.tv/Live/swfVfy=true live=true timeout=10
+#EXTINF:0, AMT
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1993.m3u8
+#EXTINF:0, Anaconda
+https://ph2dop.oloadcdn.net/dl/l/kr3SM9STNUBWHTE9/xsYBSTaB3EY/Anaconda4.DVDRip.Dub.mp4
+#EXTINF:0, Animal
+http://62.106.105.211:4022/udp/232.0.1.48:1234
+#EXTINF:0, antena3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:0, antonio
+http://revendedor.amxiptv.club:8000/get.php?username=antonioSAT&password=diasSAT&type=m3u
+#EXTINF:0, antv
+http://www.useetv.com/livetv/antv
+#EXTINF:0, AR-Uk
+http://ipcam-server.ddns.me:8000/get.php?username=sonic&password=sonic&type=m3u
+#EXTINF:0, ARAB
+http://src506.com:8080/get.php?username=babam311216&password=H2j69AZJ16&type=m3u
+#EXTINF:0, Arab
+http://89.248.171.141/ts60/ch1035/index.m3u8?v=1548652116
+#EXTINF:0, arab
+http://revendedor.amxiptv.club:8000/
+#EXTINF:0, arab, it ,es, de
+http://www.q7t1.com:8000/get.php?username=dona&password=dona&type=m3u
+#EXTINF:0, arabic2
+rtmp://38.96.148.206/Melody playpath=MAflamWeb swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.melody.net/pages/view/id/1
+#EXTINF:0, ARENA 1
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
+#EXTINF:0, ARENA 1HD
+http://balkanstream.com/stream/arenasport1hr/euorocard/besplatna
+#EXTINF:0, Arena Sport
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/42.ts
+#EXTINF:0, Argentina
+http://masteriptv.dnsfor.me:8000/get.php?username=teste&password=teste&type=m3u
+#EXTINF:0, Armenia TV
+http://185.223.124.2:8888/playlist.m3u8
+#EXTINF:0, armenien tv
+http://46.234.110.202:23000/get.php?username=461311&password=461311&type=m3u
+#EXTINF:0, arri
+http://embratoria.com/player/tv.php?s=http://arriadia-tv.scdn.arkena.com/arriadia.isml/index.m3u8
+#EXTINF:0, artanews
+http://livestream.artmotion.al:8080/artanews/
+#EXTINF:0, Arte HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/574.ts
+#EXTINF:0, asd
+rtmp://www.teledunet.com:1935/teledunet/tele_4_hd ; swfUrl=http://www.teledunet.com/player.swf?id0=82713614382800&skin=bekle/bekle.xml&channel=tele_4_hd pageUrl=http://www.teledunet.com/ live=1
+#EXTINF:0, asds
+http://online.pxstream.tv:1935/loadbalance/tvmsnmaxxprime/playlist.m3u8
+#EXTINF:0, asfasf
+rtmp://www.teledunet.com:1935/live2teledunet_tv
+#EXTINF:0, atv
+http://iptv.servzp.pp.ua/pl/metroset/day/146.158.118.72.m3u
+#EXTINF:0, audio
+rtmp://edge02.mixlr.com:443/live/production?ua=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.
+#EXTINF:0, AutoMotor Sport HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/573.ts
+#EXTINF:0, Axn HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/129.ts
+#EXTINF:0, B Sport HD
+http://159.147.218.156:9981/stream/channelid/1448285175?ticket=CEFDE1B7B63E6CB874654B2625E0E3946E1C0276&profile=pass
+#EXTINF:0, b5
+http://iptvfannansat.dyndns.tv/vach968588/7856995/1.ch
+#EXTINF:0, Bab
+https://open.spotify.com/user/staceehel/playlist/6Ygy2D2kmGGvjLdRoc3B5p
+#EXTINF:0, babestation xtra
+http://publish.thewebstream.co:1935/cellcast/encoder71/playlist.m3u8
+#EXTINF:0, Bad request
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/192.ts
+#EXTINF:0, Baghdad
+http://tiny.cc/baghdad
+#EXTINF:0, Baghdad Tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+#EXTINF:0, bahrain3
+rtmp://tdsiptv.ddns.me/live playpath=ch62?code=w_5190e54074e1dd1 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/Bahrain-TV-en-direct-live.html live=true timeout=15
+#EXTINF:0, Barca TV
+http://159.147.218.156:9981/stream/channelid/1423394765?ticket=4196FE949915FF52D3A830F8B878CBB1554D394F&profile=pass
+#EXTINF:0, Bbbb
+http://m.tudotv.tv/assistir-bbb-2018-ao-vivo-online-big-brother-brasil-2018-em-hd/
+#EXTINF:0, BBBB2
+http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
+#EXTINF:0, bbc
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:0, bccc
+https://svbps-sambavideos.akamaized.net/voda/_definst_/amlst:stg;1685,3851,9207bc6b56e486b2fb21cc0bc60d6676;hidden32np;3WUEA6SURIAH2HUAYUEUL56DPXWM5YH7EIW3KNWUX7FCYL2T4P57JSWRFIM5HEMMGNAH6EZMDOYDFTZW3DJDGHIUJDB2MB5ZVMSNOEKHR7FQ2LVIKFFAT3IHUCPLJT7N2HO34JQWIROOAAGAMBDG7MRDFXUHD7DCZFSCITS4YBFPOMVHIO3D7TFZW33OV2AA2W3EYX2COFALG67R5RZMY4PE3COJ4XRTPWVUKWFQ7LVUD4ZJ2BMRVTA5UTSWWNWZQ3RYZQXYJT7XT3FYFN3G3FRONBNH4UD5RTYA!!!!/chunklist_b381952.m3u8
+#EXTINF:0, BE | La_Une
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/4649.ts
+#EXTINF:0, being
+http://androturkstreamingserver.co:8000/get.php?username=MuratYamuk7i&password=lE7ZHB54fV&type=m3u&output=t
+#EXTINF:0, bfb
+http://vidshark.ws/vv.php?Id=00a255f4beb7e2b0bbf578148d86b9af
+#EXTINF:0, Bho
+http://srv4.cybergroup.top:8000/get/3ecf07b1d6a892f/9bbdc14ab1de58f/m3u/mpegts
+#EXTINF:0, big brother
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/193.ts
+#EXTINF:0, BIG WORLD
+http://193.70.44.113:2500/get.php?username=iptv100&pptv100&type=m3u
+#EXTINF:0, Bin spot 1
+http://158.69.116.204:25461/get.php?username=flavi&password=flavi&type=m3u
+#EXTINF:0, biwsat
+http://biwsat.com:8080/get.php?username=tpxMKQAgaK&password=3hGIP74cMX&type=m3u
+#EXTINF:0, Bo
+http://servidoriptv.mine.nu:37001/get.php?username=nathaly&password=123456&type=m3u
+#EXTINF:0, bosna
+http://178.132.6.97:80/A1Balkan/playlist.m3u8
+#EXTINF:0, Bostel
+https://www.bhtelecom.ba/webtv/flow/flowplayer.commercial-3.2.16.swf
+#EXTINF:0, Boxing
+http://s69362.cdn.ngenix.net
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=anita1&password=12345&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=Erika&password=Erika123&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=jo1&password=1234&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=tania1&password=1234&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=maria&password=12345&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=raul01&password=raul01&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=joel01&password=joel01&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=07&password=07&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=william07&password=william07&type=m3u
+#EXTINF:0, bra
+http://painel.iptvmove.com:80/get.php?username=karla&password=karla2018&type=m3u
+#EXTINF:0, Brasil
+http://painel.iptvmove.com:80/get.php?username=valter&password=1234&type=m3u
+#EXTINF:0, brazil
+http://atlas-iptv.ddns.net:25461/get.php?username=amiricatest&password=tesramerica&type=m3u&output=ts
+#EXTINF:0, BT/ESPN
+http://163.172.86.57:3135/BT/espn/index.m3u8
+#EXTINF:0, btv4
+http://www.xemtiviso.com/2014/07/xem-kenh-imovie-online-kenh-imovie-truc.html
+#EXTINF:0, c
+http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/cmfotboll.m3u8
+#EXTINF:0, c
+rtmp://77.81.98.135/lub/ playpath=fvref swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=fvref&vw=630&vh=350&typeplayer=0&domain=http://www.tvonlinestreams.com
+#EXTINF:0, canada
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
+#EXTINF:0, Canal plus
+http://89.212.40.45:1234
+#EXTINF:0, Canale 5
+http://italians-world.net:6969/get.php?
+#EXTINF:0, captain
+https://m.youtube.com/watch?v=bNBKsjKZnbc
+#EXTINF:0, cartoon network
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0, cartoon network
+http://80.251.50.21:8010/play/a01b
+#EXTINF:0, CBC
+http://cbcsportshd1-f.akamaihd.net/i/cbcsports_1@31211/master.m3u8
+#EXTINF:0, cctv 3
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-3/.m3u8
+#EXTINF:0, cctv news
+http://127.0.0.1:6878/ace/getstream?id=28319218d989d05fa38f8e030d553e2ee0baa187&hlc=1&spv=0
+#EXTINF:0, CETV
+http://213.81.153.221:8080/cetv
+#EXTINF:0, cgffg
+rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
+#EXTINF:0, cgffg
+rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
+#EXTINF:0, ch2
+http://iptvgo.dyndns.tv/umberto2/umberto2/2.ch
+#EXTINF:0, chroma classica
+http://chromaradio.com:8008
+#EXTINF:0, Cima
+http://185.9.3.100:4242/udp/239.193.1.95:3301?auth=yes?
+#EXTINF:0, Cima
+rtmp://5.135.134.110:1935/teledunet/cima app=teledunet swfUrl=http://teledunet.com/player.swf?id0=83301631592400& playpath=cima live=1pageUrl=http://teledunet.com/player/?channel=Cima
+#EXTINF:0, cinema canal +
+http://www.t12v.com:8000/live/john/john/202.m3u8
+#EXTINF:0, CINEMAX
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
+#EXTINF:0, city and se
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/1124.ts
+#EXTINF:0, clever hd
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/147.ts
+#EXTINF:0, clo
+http://rtmp.infomaniak.ch/livecast/tvm3/master.m3u8
+#EXTINF:0, cN
+http://kokustv.com/canal-5-televisa-en-vivo-por-internet.html
+#EXTINF:0, CNN TÃœRK
+http://38.117.88.253:7777/CNNTurk_HD.m3u8
+#EXTINF:0, CoC
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/32.ts
+#EXTINF:0, crime hd
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/11.ts
+#EXTINF:0, CROTAOA BIG
+http://193.70.44.113:2500/get.php?us=iptv100&password=iptv100&type=m3u
+#EXTINF:0, cth3
+http://27.254.149.71:1935/view/cth3.stream/playlist.m3u8?5e9954bb341477d460a10855d5c5194b
+#EXTINF:0, CTV (Azerbaijan)
+http://85.132.81.184:8080/ctv/live/index.m3u8
+#EXTINF:0, cupcakelover_11120
+rtmp://live-ws-pub.livelycdm.com/prod
+#EXTINF:0, cw
+rtmp://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd - See more at: http://www.iptvsharing.com/2015/01/iptv-channels-list-english-language-for.html#sthash.Vrg3QIjJ.dpuf
+#EXTINF:0, D
+rtmp://extondemand.livestream.com/ondemandtrans/dv03/mogulus-user-files/chduhoktv/2008/03/01/ffe415ed-7445-45a2-bb86-1a0ba031c558_hihttp://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?mute=false&allowchat=true&color=0xe7e7e7&time;=&jsEnabled=false&iconColorOver=0x888888&autoPlay=true&iconColor=0x777777http://cdn.livestream.com/embed/duhoktv?layout=4&color=0xe7e7e7&autoPlay=true&mute=false&iconColorOver=0x888888&iconColor=0x777777&allowchat=true.
+#EXTINF:0, d
+rtmpe://cp463514.live.edgefcs.net/live/hrtv_fm_771@s338849?cust=HRTV&type=live&user=&auth=daEdpazdxcHaUcIbQdfczbUbjbObfajcJch-byjfQC-vga-FCAB_Cow_DrmFDs&aifp=1235
+#EXTINF:0, d
+rtmp://mirtv.cdnvideo.ru/mirtv-paramlive/mir24_800
+#EXTINF:0, d vinci
+http://77.120.118.233:8000/3
+#EXTINF:0, d1
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv04/mogulus-user-files/chduhoktv/2008/03/01/0e5a0901-45fb-4613-8004-a83e432d0698_hi
+#EXTINF:0, da
+rtmp-raw=rtmpe://93.120.27.77/live playpath=toni9 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/
+#EXTINF:0, da
+rtmpe://46.246.124.38:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+#EXTINF:0, DAF TV
+rtmp://fms.daf.tmt.de/live/dafstream100
+#EXTINF:0, dd
+http://yayin.canlitv.com:1935/live/startv/embedstv39.m3u8
+#EXTINF:0, dd
+http://ccc13.doiptv.com/cs_fox/playlist.m3u8
+#EXTINF:0, dd
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8w
+#EXTINF:0, ddd
+http://5.39.70.216/asdawdaacazsd/sports@fontsbay.com/31.ch
+#EXTINF:0, ddd
+rtmp://web2.iptv-planet.com:1937/live2/attassia
+#EXTINF:0, dddd
+http://pastebin.com/raw/1BJzZsVM
+#EXTINF:0, ddddddd
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1
+#EXTINF:0, Ddf
+http://158.69.116.209
+#EXTINF:0, ddss
+https://edge2.liveonlinetv247.com/live/bein1-hq/chunks.m3u8?nimblesessionid=422067&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDg6MjQ6NTUgQU0maGFzaF92YWx1ZT1HenpLRlN0dXNLUURoZnlYMTd2bjRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTYyLjQyLjU5LjIyMCZzdHJtX2xlbj0xMw==
+#EXTINF:0, de
+http://edge38.stream.highwebmedia.com:1935/live-edge/djmute-sd-97031e427b22b9de2ef4d577de2881a5365d1d8f42b07f42b326cc6f28a0db12_aac/playlist.m3u8
+#EXTINF:0, Desafio Super Humanos Cap 1
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=5022381532001&pubId=3827094929001&videoId=5022357674001
+#EXTINF:0, dfg
+http://37.187.175.177:8000/get.php? username=a223&password=9452&type=m3u
+#EXTINF:0, dfgj
+rtmpe://93.120.27.77/live playpath=toni9 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ ;
+#EXTINF:0, diema sport
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2371.ts #EXTINF:-1,BG:
+#EXTINF:0, diemasport
+http://bgtv.ddns.net/live2/diemasport_360p/playlist.m3u8
+#EXTINF:0, Digi 24
+http://82.76.249.77/digi24edge/digi24hdhqhls/chunklist.m3u8
+#EXTINF:0, Digi 24 Hd.Romania
+http://89.38.8.130:39448
+#EXTINF:0, Digi Film Romania
+http://195.181.172.85:25552/live/21e9978e4e463a5038a52ee3b109a1a5/21e9978e4e463a5038a52ee3b109a1a5/00002390_21e9978e4e463a5038a52ee3b109a1a5.m3u8?token=HhcNAEUOE14bU1EODlBUDlMJUwwFDAQMA1BdBFIBAVRcAFIAUF4IBgEVTRVLRkRdBVRoUVcbCgtWXwgeQRZCVxdqDAUUXBNWDA9RAhoeFEwNVFIaCQkcGxUPXBBZQQMAXARTQxpEVBxNUhNZWV5pXAFPXltWGwpXEApUHkEMX20BUAgAWAITXhsHQxsaW0VIRgMVfFpLVVoRRndcBkNic0cZRwNfEkMFTVJDDRoABgtTGxsaUFZFVxEUQRBZQWN9RxlHBE4SVApKXg5ZGggUVVdMDxofG1lKOhRdQRcRVFMIUBdDDEQBRhUVDFZAbVVXCldSW0dQX1cWRAIQUkEdEAhaCwhCCUM7SV4FFQIQ
+#EXTINF:0, Digi Sport 1 Hd. Romania
+http://82.79.217.207:8233/digi_sport1_hd-
+#EXTINF:0, Digi Sport 2 Hd. Romania
+http://82.79.217.207:8236/digi_sport2_hd-
+#EXTINF:0, Digi Sport 2 Ro.
+http://sport7.pw/lba/NDg2OWI2MTk1ZWZkM2NhY2UyYzI2ZmJiOWNmZDdlOGU=/g1/DigiRo2.m3u8
+#EXTINF:0, discovery
+rtmp://31.204.151.253/live/master04http://tv-msn.com/player/player.swf http://tv-msn.com/discovery.html
+#EXTINF:0, discovery
+http://cdn0.4network.tv/master_23.m3u8
+#EXTINF:0, Discovery Channel
+http://209.126.110.107:8081/402discoverychannel/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0, Discovery H&H
+http://209.126.110.107:8081/215DiscoveryHH/android/chunk_Auth=ix08xZ^@6Qg7xc=1/chunks.m3u8
+#EXTINF:0, Disney cinemagic
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/109.ts
+#EXTINF:0, Disney Pro
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/1194.ts
+#EXTINF:0, Disney XD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/556.ts
+#EXTINF:0, Dot1
+http://122.155.186.80:1935/Dot1/Dot1.stream/playlist.m3u8
+#EXTINF:0, DRAGO
+http://two-brothers.dyndns.tv:8000//get.php?username=drago&password=drago&type=m3u
+#EXTINF:0, DRM protected
+http://live.tatasky.com.edgesuite.net/157/latest_1300.m3u8
+#EXTINF:0, dsdsd
+http://yayin3.canlitv.com:1935/canlitv/cartoonnetwork/playlist.m3u8
+#EXTINF:0, Dsicovery channel
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/108.ts
+#EXTINF:0, dvr178.tibo.tv/klanplus/mpegts
+http://91.109.20.227:8080/TV4001
+#EXTINF:0, E
+http://iptv.gen12.net/dokuwiki/doku.php/mantis/simpletv/start
+#EXTINF:0, E
+http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/16799.ts
+#EXTINF:0, EBS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
+#EXTINF:0, ed
+http://sco.lt/5v62Gf
+#EXTINF:0, eee
+rtsp://gosc:gosc@81.15.239.198
+#EXTINF:0, efq
+https://hls.younow.com/hlsarchives/live/01/48/110049721/playlist.m3u8
+#EXTINF:0, ei
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_720p/livestream.m3u8
+#EXTINF:0, eng
+http://62.210.93.115:80/playlist?type=m3u&deviceUser=lee&devicePass=lee
+#EXTINF:0, eng
+http://62.210.93.115:80/playlist?deviceUser=lee&devicePass=lee&type=m3u
+#EXTINF:0, eng
+http://62.210.93.115:80/playlist?deviceUser=darren&devicePass=darren&type=m3u
+#EXTINF:0, eng
+http://62.210.93.115:80/playlist?deviceUser=neil&devicePass=neil&type=m3u
+#EXTINF:0, eng
+http://62.210.93.115:80/playlist?deviceUser=neil&devicePass=neil&type=m3u
+#EXTINF:0, eng
+http://62.210.93.115:80/playlist?deviceUser=roy&devicePass=roy&type=m3u
+#EXTINF:0, ere
+http://m.zbigz.com/playlist.php?hash=d47a94f7ceaaeb3a16e4e6e5a8abe6d4514465d1&fid=0&playlist;.m3u8
+#EXTINF:0, ERRUMANIA
+http://biwsat.com:8080/get.php?username=r&password=AkDwomgTTE&type=m3u
+#EXTINF:0, es
+http://theiptv.ddns.net:25461/get.php?username=Francisco&password=Francisco&type=m3u
+#EXTINF:0, españa
+http://51.255.89.131:8000
+#EXTINF:0, Espaniaa
+http://163.172.15.23:8000/get.php?username=ncxGSWShRz5&pasord=NJCVhLk302p&type=m3u
+#EXTINF:0, ESPANOL
+http://sopoti.comeze.com/espanol.m3u
+#EXTINF:0, EuroNews
+http://185.9.3.100:4242/udp/239.193.1.92:3301?auth=yes?
+#EXTINF:0, Example
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://64.150.176.42:8154/listen.pls?sid=1&t=.m3u
+#EXTINF:0, Exyu
+http://vipforever.club:8181/get.php?username=veseli&password=veseli&type=m3u
+#EXTINF:0, Exyu
+http://vipforever.club:8181/get.php?username=ml&password=ml&type=m3u
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:1B:3A:59
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:1b:a8:92
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:1c:78:88
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:1F:4C:91
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:2a:2d:31
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2A:9D:BA
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2A:9E:51
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:2a:20:f6
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:2b:23:6f
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:2b:80:92
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:2c:0d:3d
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2C:16:29
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2C:16:82
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:2c:b2:2a
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2D:3A:DE
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2D:7C:AC
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2D:29:7C
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2D:78:61
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1a:79:2d:79:72
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2F:3A:AD
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2F:33:4F
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2F:35:4E
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:2F:35:F5
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:3A:16:31
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:3A:22:22
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:3A:38:08
+#EXTINF:0, Exyu
+http://iptv.radiokafic.com:80/playlist?type=m3u&deviceMac=00:1A:79:3B:0A:00
+#EXTINF:0, Exyu
+http://video.bossna-caffe.com:80/playlist?type=m3u&deviceUser=goro&devicePass=goro
+#EXTINF:0, Exyu
+http://video.bossna-caffe.com:80/playlist?type=m3u&deviceUser=venan&devicePass=venan
+#EXTINF:0, Exyu
+http://video.bossna-caffe.com:80/playlist?type=m3u&deviceUser=omom&devicePass=omom
+#EXTINF:0, Exyu
+http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:44:62:33
+#EXTINF:0, Exyu
+http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:46:5C:A0
+#EXTINF:0, Exyu
+http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:46:31:FF
+#EXTINF:0, Exyu
+http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1a:79:47:56:fc
+#EXTINF:0, Exyu
+http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:48:85:2F
+#EXTINF:0, Exyu
+http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:3B:2C:F0 http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:3B:2D:95 http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1a:79:3b:09:7e http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:3B:29:EF http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1a:79:3c:41:e7 http://circusmaximus.biz:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:3D:17:B5 http://circusmaximus.biz:80/playlist.m3u?typ
+#EXTINF:0, Exyu
+http://163.172.90.27:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:2C:20:33
+#EXTINF:0, Exyu
+http://s0.balkan-x.net:80/playlist?type=m3u&deviceMac=00:1A:79:2F:2F:C2
+#EXTINF:0, Exyu
+http://s0.balkan-x.net:80/playlist?type=m3u&deviceMac=00:1A:79:3A:2D:B9
+#EXTINF:0, Exyu
+http://s0.balkan-x.net:80/playlist?type=m3u&deviceMac=00:1A:79:3C:4F:1E
+#EXTINF:0, Exyu
+http://163.172.90.27:80/playlist?type=m3u&deviceUser=dervic0914&devicePass=wilhasib09
+#EXTINF:0, Exyu
+http://cms.bossna-caffe.com:80/playlist.m3u?type=m3u&deviceMac=00:1A:79:4B:52:3B
+#EXTINF:0, Exyu
+http://s0.balkan-x.net:80/playlist?deviceUser=moto&devicePass=moto&type=m3u
+#EXTINF:0, Exyu
+http://s0.balkan-x.net:80/playlist?deviceUser=goro&devicePass=goro&type=m3u
+#EXTINF:0, Exyu
+http://s0.balkan-x.net:80/playlist?deviceUser=venan&devicePass=venan&type=m3u
+#EXTINF:0, Exyu
+http://s1.balancane.info:80/playlist?deviceUser=zivorad&devicePass=zivorad123&type=m3u http://s1.balancane.info:80/playlist?deviceUser=sajo&devicePass=sajo123&type=m3u
+#EXTINF:0, Exyu
+http://s1.balancane.info:80/playlist?deviceUser=zivorad&devicePass=zivorad123&type=m3u
+#EXTINF:0, Exyu
+http://s1.balancane.info:80/playlist?deviceUser=sajo&devicePass=sajo123&type=m3u
+#EXTINF:0, Exyu
+http://gradina1.info/get.php?username=dzenan&password=dzenan123&type=m3u
+#EXTINF:0, Exyu
+http://gradina1.info/get.php?username=nikola&password=nikola123&type=m3u
+#EXTINF:0, Exyu
+http://media.bossna-caffe.com/playlist?deviceUser=kris&devicePass=kris&type=m3u
+#EXTINF:0, Exyu
+http://media.bossna-caffe.com/playlist?deviceUser=moto&devicePass=moto&type=m3u
+#EXTINF:0, Exyu
+http://media.bossna-caffe.com/playlist?deviceUser=goro&devicePass=goro&type=m3u
+#EXTINF:0, Exyu
+http://streamer.bestibz.com:8000/get.php?username=nikorosice2&password=e2rosicniko09d3w&type=m3u
+#EXTINF:0, Exyu share
+http://cms.bossna-caffe.com:80/playlist?type=m3u&deviceUser=mher&devicePass=mher
+#EXTINF:0, Exyu share
+http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8?u=n1info#User-Agent="AppleCoreMedia
+#EXTINF:0, Exyu share
+http://xt.bossna-caffe.com:25461
+#EXTINF:0, Exyu share
+http://x-bosna.no-ip.biz:80/playlist?type=m3u&deviceUser=BaskimArcadia100&devicePass=aBv9JU0qirzhS9nx88O0
+#EXTINF:0, f1
+http://185.9.3.2:4048/udp/239.193.0.20:3301
+#EXTINF:0, F1
+http://motorsport.hopto.org:8080/
+#EXTINF:0, f12
+http://185.9.3.2:4048/udp/239.193.0.32:3301
+#EXTINF:0, f14
+http://185.9.3.2:4048/udp/239.193.0.34:3301
+#EXTINF:0, f15
+http://185.9.3.2:4048/udp/239.193.37.9:3301
+#EXTINF:0, f3
+http://wms.scrippsnetworks.com/library/Food_Network/0238115.wmv
+#EXTINF:0, f4
+http://185.9.3.2:4048/udp/239.193.0.23:3301
+#EXTINF:0, f4mtest
+http://bbcwshdlive01-lh.akamaihd.net/z/atv_1@61433/800_f34505f9cc1a35ad-p.bootstrap?hdcore=2.11.3
+#EXTINF:0, fajn
+http://31.43.120.162:81299
+#EXTINF:0, fajr
+rtmp://vstream2.hadara.ps/alfajertv//alfajertv_1 swfUrl=http://www.arabichannels.com/player/player.swf?275030009415&arabichannels;.com©right=2013&provider=rtmp&streamer=rtmp://arabichannels.com playpath=alfajertv_1 flashVer=20.1.453 live=1 swfVfy=true pageUrl=http://www.arabichannels.com/fajr.php
+#EXTINF:0, fajrtv
+rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/ playpath=alfajertv swfUrl=http://ssl.p.jwpcdn.com/player/v/7.4.4/jwplayer.flash.swf pageUrl=http://www.alfajertv.com/live/3954790.html
+#EXTINF:0, fap
+http://llmd.shahid.net/media/ll/cc7cabc03e3ff1c3f97f75e3936e02d2c9abcf61.m3u8
+#EXTINF:0, farfesh
+http://origin.riktak.com:8081/origin-view/5/955/5955.mp4?nimblesessionid=36790598
+#EXTINF:0, farfesh cbc
+http://50.7.168.162:8081/live2/live2/playlist.m3u8
+#EXTINF:0, farfeshfilm
+http://origin.riktak.com:8081/origin-view/5/955/5955.mp4?nimblesessionid=35561696
+#EXTINF:0, farsi
+http://sjc-ucdn03.comcast.tcdn.ustream.tv/sjc-uhs20/streams/httpflv/ustreamVideo/8340350/streams/live_1_1392967293_1491762789.flv
+#EXTINF:0, FEZZAN TV
+http://185.9.3.100:4242/udp/239.193.0.152:3301?auth=yes?
+#EXTINF:0, ff
+http://www.liveleak.com/ll_embed?f=90ac138d8840
+#EXTINF:0, fffffffffff
+http://pastebin.com/raw/uFCdcYLF
+#EXTINF:0, flash
+http://player.sky.it/social?id=273030&errMsgLink=http://video.sky.it/cinema/trailer/weekend_il_trailer/v273030.vid&autoplay=true&sc_id=skyitdev&domain=sky
+#EXTINF:0, flv
+http://95.211.214.205:8777/sci7gigwqduzcg3h5fpsdfn3rlhm5w57qd5dmp7jshntkrdxwce2yvvkruzq/v.flv
+#EXTINF:0, fm
+http://shaincast.caster.fm:21180/listen.mp3?authn060a4d50f12607b24d0047dada13a1e3
+#EXTINF:0, fox
+http://123.29.74.98/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:0, fox
+http://123.29.74.98/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:0, fox 2
+http://www.tv-porinternet.com/2013/03/fox-sports-2-en-vivo.html
+#EXTINF:0, fox move
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/fox_movies
+#EXTINF:0, Fox Movies
+http://62.63.207.51:4242/udp/239.193.0.8:3301?auth=yes?
+#EXTINF:0, FOX MOVIES arab
+http://demo.xtream-codes.com/7KLqvyknFb/brahim/daz/19.ch
+#EXTINF:0, FOX TR
+http://www.fox.com.tr/canli-yayin
+#EXTINF:0, fr
+rtmp://149.202.206.50:1935994?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:0, fr3
+http://tntfrforfree.1s.fr/3/play.m3u8
+#EXTINF:0, frafash
+http://origin.riktak.com:8081/origin-view/56/569/56569.mp4
+#EXTINF:0, france
+http://mafreebox.freebox.fr/freeboxtv/playlist.m3u
+#EXTINF:0, FRANCE
+http://sopoti.comeze.com/France.m3u
+#EXTINF:0, France
+http://193.70.44.113:2500/get.php?username=iptv100&pastv100&type=m3u
+#EXTINF:0, france.0
+http://bit.do/iptvgxmax.fr.france.0
+#EXTINF:0, France2
+http://http://replay1-il.annatel.tv/france2/index.m3u8
+#EXTINF:0, Franceinfotv
+http://www.francetvinfo.fr/en-direct/tv.html
+#EXTINF:0, frank
+http://vision9841-i.tvihd.net/hls/live/214586/95713/3.m3u8
+#EXTINF:0, Frank1
+http://smartiptvspain1.mine.nu:980/get.php?username=maputi&password=1234&type=m3u_plus&output=ts
+#EXTINF:0, Freeform
+rtmp://89.248.169.55:1935/edge?xs=_we_dng2M2EwYzdteGsyanQ4fDE0ODYyMjYyMDN8MTg3LjIwLjI0NS44MHw1ODk0YjE5YmIyZDRifDk2ZTNlNWM3Yzc5OTAzMjYyMjI3YTUyYWRlNjU3YzVkN2ZmZDQ0ZWY.&userId=MzI3MjAzfDE0ODYyMjYyMDN8MDNjMGJlMmRkNzAzMmE2ODFmMDI2ZDlkYWY1ZmZlYzA2NjkyOTc4NA..vx63a0c7mxk2jt8 http://www.streamlive.to/player/Player.swf?1486139803 http://www.streamlive.to/embedplayer_new2.php?width=650&height=470&channel=30303&autoplay=true
+#EXTINF:0, full soport
+http://149.202.208.25:5210/get.php?username=nGDZ&password=pZVzv2wO40&type=m3u
+#EXTINF:0, FUtboll
+http://service1.rovida.tv:8000/get.php?
+#EXTINF:0, Fwayed AlTaby3a
+http://185.9.3.100:4242/udp/239.193.1.225:3301?auth=yes?
+#EXTINF:0, g
+rtmp://www.teledunet.com:1935/live2teledunet_tv http://www.teledunet.com/mobile/player.swf http://www.teledunet.com/mobile/
+#EXTINF:0, GalaxyTV
+http://89.47.38.12:8890/
+#EXTINF:0, gambero rosso
+http://secure.selling-team
+#EXTINF:0, gdrive
+https://r16---sn-hgn7zn7s.c.docs.google.com/videoplayback?requiressl=yes&id=ae7fe83e697a9f5e&itag=34&source=webdrive&app=texmex&ip=149.200.192.253&ipbits=8&expire=1446155582&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=17D41B5B9CF8885918D1067B7A1E1F9D676C2235.736470B630123CE891D7195A95530092850E2EC4&key=ck2&mm=30&mn=sn-hgn7zn7s&ms=nxu&mt=1446151906&mv=m&pl=22
+#EXTINF:0, GearOne
+http://38.99.146.36:7777/GearOne_HD.m3u8
+#EXTINF:0, GearOne
+http://38.99.146.36:7777/GearOne_HD.m3u8
+#EXTINF:0, gem
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:0, GERMANY
+http://sopoti.comeze.com/germany.m3u
+#EXTINF:0, GERMANY
+http://37.187.251.185:25461/get.php?username=Fra&password=Francisco&type=m3u
+#EXTINF:0, ggll
+https://www.edge35.stream.highwebmedia.com/live-hls/amlst:ellevensky-sd-6c46da38e3fd727294d48d851f89e72b59613f5b560c4b4e2d1919c9d265efa_trns_h264/playlist.m3u8
+#EXTINF:0, gh
+http://142.4.217.62:25461/get.php?username=hosting593_app&password=red-iptv&type=m3u
+#EXTINF:0, ghg
+http://sc-e1.streamcyclone.com:1935/ctvch_live/ctvch/playlist.m3u8
+#EXTINF:0, GK Slemani
+rtmp://64.150.177.45/live3/mp4:myStream swfUrl=http://www.gksulaimani.tv/swf pageUrl=http://www.gksulaimani.tv/swfVfy=true live=true timeout=10
+#EXTINF:0, glob
+http://185.2.83.209:8000/get.php?username=123456&password=123456&type=m3u
+#EXTINF:0, globo
+http://www.bragatop.com:8080/live/008/008/4388.ts
+#EXTINF:0, Globo brasil
+http://tvxat.info/globo-ao-vivo-tv-online-24hs
+#EXTINF:0, Globo SP HD
+http://aovivonatv.com/assistir-globo-ao-vivo-online-hd/
+#EXTINF:0, gol1
+rtmp://50.7.137.106/iguide playpath=euxk7ataczy5ri5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:0, gol3
+rtmp://31.220.0.195:1935/live playpath=b12r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490 live=1
+#EXTINF:0, Gomovies
+https://gomovies.is/film/007-spectre-6450/watching.html?ep=116380
+#EXTINF:0, gpbhd
+http://188.93.94.130/gpbhd/index.m3u8
+#EXTINF:0, grecce
+http://193.70.44.113:2500/get.php?username=iptv100&password=iptv100&type=m3u
+#EXTINF:0, greek
+http://37.187.251.185:25461/get.php?username=Frword=Francisco&type=m3u
+#EXTINF:0, GunAZ TV
+http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist_w1376762804_b100000.m3u8
+#EXTINF:0, Hadath
+http://livestream7.alarabiya.tv/i/live_1@187753/index_1_av-p.m3u8?hd=10&rebase=on
+#EXTINF:0, Hanash
+http://c742eceb-lp-omega.ums.ustream.tv/playlist/auditorium/channel/23443444/playlist.m3u8?token=8662582_1508873756187&appType=11&appVersion=2&ts=1508873756&chunkingType=improved&geo=FR&sgn=7cc226506a62dcc1cb5c628e1fca58504c24ee7d&preferredBitrate=0&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:0, hb
+rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdadswfUrl=http://honabaghdad.com/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://itworks-me.net/hounabaghdad/
+#EXTINF:0, hbo
+rtsp://218.248.64.82.554:/
+#EXTINF:0, HBO
+http://213.215.105.10:8025/udp/239.1.2.151:1234
+#EXTINF:0, hbo
+http://27.254.84.3:1935/live/fdihbo.stream/chengye.m3u8
+#EXTINF:0, HBO
+http://176.31.224.74/hbo/mpegts
+#EXTINF:0, Hbo
+http://s3.stream.cwdw.live:8080/349/1179/7607ae5a274e3fb8955b419a90bf3320ee63405c
+#EXTINF:0, HBO 1 Ro.
+http://89.38.8.130:39476
+#EXTINF:0, hbo mexico
+http://main.nrdtv.gq:2095/live/heribarron/2410/1.m3u8
+#EXTINF:0, hdtr
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/chunklist_w510271769_b1328000.m3u8
+#EXTINF:0, healt
+https://stream.healthmeans.com/user_videos/133d6a29-49ae-4577-83c6-f1c1b5128f49/133d6a29-49ae-4577-83c6-f1c1b5128f49.m3u8
+#EXTINF:0, heros
+http://edge1.liveonlinetv247.info/live/eurosport-hq/chunks.m3u8?nimblesessionid=3826640&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDE3IDM6Mjk6MjMgUE0maGFzaF92YWx1ZT1yK0FBT0VHRVBCRnkwUFN1dFdSTVVnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2Mi4xNTguOTAuMjAmc3RybV9sZW49MTc=
+#EXTINF:0, hg
+http://217.172.189.81:12000/
+#EXTINF:0, hh
+http://95.93.15.70:9981
+#EXTINF:0, Hhhh
+http://painel.iptvmove.com:8880/get.php?
+#EXTINF:0, hhhhhhh
+http://cp.dmbshare.net:8000/live/derya/derya/2529.m3u8
+#EXTINF:0, history espaÃ±ol
+https://vaughnlive.tv/embed/video/mfv_05
+#EXTINF:0, hjv
+https://www.youtube.com/watch?v=LvxZC4lfIts
+#EXTINF:0, home1
+http://85.114.128.105:8000/get.php?username=za84&password=me1&type=m3u
+#EXTINF:0, Houna Baghdad
+rtmp://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad swfUrl=http://honabaghdad.com/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://itworks-me.net/hounabaghdad/
+#EXTINF:0, Hounabaghdad
+http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
+#EXTINF:0, http://01.gen.tr/HasBahCa/bulgar_bulsat.m3u
+http://01.gen.tr/HasBahCa/bulgar_bulsat.m3u
+#EXTINF:0, http://144.76.84.153:21396/stream.m3u
+http://144.76.84.153:21396/stream.m3u
+#EXTINF:0, http://145.239.206.31:8000
+http://fra1.ddns.net:97/live/amir/amir/228.m3u8
+#EXTINF:0, http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/630.ts
+http://213.162.202.9:8000/play/a013/index.m3u8
+#EXTINF:0, http://149.56.26.6:25461/live/dreamscanales/123456/5824.m3u8
+http://149.56.26.6:25461/live/dreamscanales
+#EXTINF:0, http://151.80.30.185:8000/live/mattia/mattia/38.ts
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3857.m3u8
+#EXTINF:0, http://173.212.226.236:8888/live/SaturdaySport/www.albaniaiptv.net/79.ts
+http://plextreamiptv.net:8080/get.php?username=liverpool&password=liverpool&type=m3
+#EXTINF:0, http://185.93.3.84:5014/playlist.m3u8
+http://144.217.253.140/M6/tracks-v1a1/index.m3u8
+#EXTINF:0, http://188.165.220.116:8081/stream/ne/playlist.m3u8
+http://188.165.220.116:8081/stream/ne/playlist.m3u8
+#EXTINF:0, http://192.68.0.16:7992/listen.m3u
+http://192.68.0.16:7992/listen.m3u
+#EXTINF:0, http://193.70.44.113:2500/get.php?username=258258258&password=258258258&type=m3u
+http://193.70.44.113:2500/get.php?username=258258258&password=258258258&type=m3u Albanian IPTV | http://starsiptv.net:5969/get.php?us
+#EXTINF:0, http://194.116.252.129:4022/udp/239.239.2.81:1234
+http://194.116.252.129:4022/udp/239.239.2.81:1234
+#EXTINF:0, http://204.27.62.122:9090/load/877cf0fc593e/300.mpegts
+http://204.27.62.122:9090/load/877cf0fc593e/300.mpegts
+#EXTINF:0, http://208.122.3.2:9000
+http://208.122.3.2:9000
+#EXTINF:0, http://212.224.108.76/S1/HLS_LIVE/dreamtv/index.m3u8
+http://212.224.108.76/S1/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:0, http://212.79.96.134:8001
+http://212.79.96.134:8001
+#EXTINF:0, http://213.162.202.9:8000/playlist.m3u8
+http://world-stream.co:8000/c
+#EXTINF:0, http://216.105.40.244/live/rotana_clip/index.m3u8
+http://216.105.40.244/live/rotana_clip/index.m3u8
+#EXTINF:0, http://31.209.18.32:8000/playlist.m3u8
+http://37.48.106.90/hlsedge/eurosport-1/playlist.m3u8
+#EXTINF:0, http://31.220.41.111:80/LiveEdge/HBO2EastHD/playlist.m3u8
+http://31.220.41.111:80/LiveEdge/HBO2EastHD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+#EXTINF:0, http://31.43.120.162:8111
+http://31.3.225.227/streams/2/42_141.acelive
+#EXTINF:0, http://37.157.245.82:1935/tv/chelseatv.stream/playlist.m3u8
+http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/0640_vod.m3u8
+#EXTINF:0, http://37.220.21.210:57088/sdtv/uktv/planet/BT_Sport_Extra
+rtmp://89.248.174.101/live/luxsuperssf1
+#EXTINF:0, http://37.46.105.100:1935/RB1/RB1.stream//playlist.m3u8
+http://37.46.105.100:1935/RB1/RB1.stream//playlist.m3u8
+#EXTINF:0, http://37.46.235.242:8000/enter-film
+http://37.46.235.242:8000/stb
+#EXTINF:0, http://38.117.88.253:7777/DostTV_HD.m3u8
+http://83.139.104.101/Conteâ€¦index.m3u8
+#EXTINF:0, http://46.182.25.34:1935/tv/1420/playlist.m3u8
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
+#EXTINF:0, http://59.124.220.46:554
+http://59.124.220.46:554
+#EXTINF:0, http://62.210.99.158/playlist.m3u?type=m3u&deviceMac=00:1A:79:15:34:33
+http://85.60.192.247:8001/1:0:1:7729:416:1:C00000:0:0:0:
+#EXTINF:0, http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
+http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
+#EXTINF:0, http://78.129.237.54:25461/live///5.m3u8
+http://78.129.237.54:25461/live///5.m3u8
+#EXTINF:0, http://85.60.192.247:8001/1:0:1:7729:416:1:C00000:0:0:0:
+http://ecuaplaytv.com:8000/
+#EXTINF:0, http://87.244.206.212:4022/udp/233.49.26.233:2314
+http://87.244.206.212:4022/udp/233.49.26.233:2314
+#EXTINF:0, http://87.246.0.134:59349/tv_Dorcel_TV
+http://87.246.0.134:59349
+#EXTINF:0, http://88.21.193.250:4022/udp/239.0.0.176:8208
+http://88.21.193.250:4022/udp/239.0.0.176:8208
+#EXTINF:0, http://89.212.58.230:7000/udp/239.11.1.95:5000
+http://89.212.58.230:7000/udp/239.11.1.95:5000
+#EXTINF:0, http://89.32.50.22:8000/play/a007
+http://89.32.50.22:8000/play/a007
+#EXTINF:0, http://93.118.32.94:8000/get.php?username=0609-www.ipmagtv.com&password=rlUo9eGRXD&type=m3u http://g
+http://114.229.149.234:9981/stream/channelid/319005945
+#EXTINF:0, http://95.211.99.102:2048
+http://acaooyalahd2-lh.akamaihd.net/i/caracol04_delivery@187706/index_2128_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, http://astra.climetv.eu:35471/play/a083?token=testplaylistCLIMETV
+http://54.38.69.11:8000/live/mahdi1/mahdi/5802.ts
+#EXTINF:0, http://aziptv.mine.nu:8000/live/shark/shark/129.ts
+rtmp://192.240.125.26:443/live?AHx0SNCnIJsbJmmSXOMD5bTBsfDRoMZZlive_mega_chavo
+#EXTINF:0, http://bit.do/2X22
+http://46.72.238.91:8083/
+#EXTINF:0, http://cdn.maiyo-tv.com/live/playlist.m3u8?c=sat1
+http://78.46.101.117:9982/udp/224.200.2.1:1234
+#EXTINF:0, http://cdn.vidible.tv/prod/player/swf/latest/vpaid-shim.swf?pid=52ee3aaae4b0906a95a168c9&adOnly=true
+http://cdn.vidible.tv/prod/player/swf/latest/vpaid-shim.swf?pid=52ee3aaae4b0906a95a168c9&adOnly=true&bcid=5176c647e4b09e5e67af5b27&m.cb=1445192130&m.url=http://sawlive.tv #EXTINF:0, 1
+#EXTINF:0, http://cdn1.moonnxt.com/hls/5scomhxdh7powlbfhhoh5rehouqzwehu3bnnrmqub,jho4hif6rld54wxjcdq,dvo6hif6rl
+http://www.biggboss2.com/15-08-2018-anbudan-prabhudeva-sun-tv-independence-day-special-program/
+#EXTINF:0, http://cobra-iptv.noip.me:8000/get.php?username=linea&password=linea&type=m3u
+http://xtream-codes.no-ip.org:61250/get.php?username=Deniz&password=Deniz&type=m3u
+#EXTINF:0, http://dvr178.tibo.tv/klanplus/mpegts
+http://dvr178.tibo.tv/klanplus/mpegts
+#EXTINF:0, http://elmasteriptv.com:8000
+http://144.217.182.151:25461
+#EXTINF:0, http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5687.ts
+http://pastebin.com/raw/4LiuUmEM
+#EXTINF:0, http://globe2.midomed.com/get.php?username=wFs7sYDHzD&password=wrW9tfYHiu&type=m3u
+http://globe2.midomed.com/get.php?username=wFs7sYDHzD&password=wrW9tfYHiu&type=m3u
+#EXTINF:0, http://hlslive.live.ksmobile.net/yolo/14884169063561538676/playlist.m3u8
+http://hlslive.live.ksmobile.net/yolo/14884169063561538676/playlist.m3u8:yum
+#EXTINF:0, http://hlsliveamdgl7-lh.akamaihd.net:80/i/hlsdvrlive_1@583042/index_1500_av-p.m3u8
+http://tvmak.com/embed.php?tv1/alsatm.m3u8
+#EXTINF:0, http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
+http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
+#EXTINF:0, http://ipm.firstonetv.com:1345/Live3/687474703a2f2f633030312e703132322e6564676573756974652e6e65742f6
+http://flv.alarab.net:8080//flv/84488.flv?start=0
+#EXTINF:0, http://iptv.proff.co:15003/live
+http://iptv.proff.co:15003/live
+#EXTINF:0, http://laganvpn12.plus.com:9981/stream/channelid/1
+http://laganvpn12.plus.com:9981/stream/channelid/1
+#EXTINF:0, http://listaccess.me:8880/get.php?username=sandy&password=sandy&type=m3u
+http://client-proiptv.com:8080
+#EXTINF:0, http://mp-cdn.choopa.net/movies/visu...15_04_2500.wmv
+http://mp-cdn.choopa.net/movies/visu...15_04_2500.wmv
+#EXTINF:0, http://nettv.selfip.net:80
+http://nettv.selfip.net:80
+#EXTINF:0, http://redhot.tech:80/live/IgoQwqCB6M/8518047996506/3.ts
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4479.ts
+#EXTINF:0, http://rlu.ru/10fxY?m3u8
+http://rlu.ru/10fxY?m3u8
+#EXTINF:0, http://srv.elitehdbr.com:25461/
+http://srv.elitehdbr.com:25461/get.php?usename=dan&password=dan&type+m3u
+#EXTINF:0, http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0, http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
+http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, http://studiocloud.dyndns.org:58500/get.php?username=fabiopirone123&password=NGGRTLVGN4&type=m3u_plu
+http://studiocloud.dyndns.org:58500/get.php?username=fabiopirone123&password=NGGRTLVGN4&type=m3u_plus&output=ts
+#EXTINF:0, http://tv.kitboxtv.com:8000
+http://camerta.com:8000
+#EXTINF:0, http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7281.ts
+http://uiptv.dyndns.tv:8000/get.php?username=Mohammed-Boumedien&password=prfw01aQ1G&type=m3u&output=ts
+#EXTINF:0, http://v.znds.com/af0073f0718c31d07ba131c8ff0bca300
+http://nlive.sbs.co.kr/sbsch6pc/sbs1ch61.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:0, http://www.kurdistan24.net/so/LiveWatch
+http://www.kurdistan24.net/so/LiveWatch/e9847195-3c42-47cb-9103-bf477c68bc8f
+#EXTINF:0, http://www.zeebra.tv:8000/live/iptvs161/cbUKYGEt41/
+http://www.zeebra.tv:8000
+#EXTINF:0, https://iframe.dacast.com/b/61151/c/82829
+https://iframe.dacast.com/b/61151/c/82829
+#EXTINF:0, https://iptvstreaming.org/playlist/jpfl5qurkh/sky_versione_alternativa.m3u
+https://iptvstreaming.org/playlist/jpfl5qurkh/sky_versione_alternativa.m3u
+#EXTINF:0, https://live.tomorrowland.com/channel/mainstage
+https://live.tomorrowland.com/channel/mainstage
+#EXTINF:0, https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+#EXTINF:0, https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+#EXTINF:0, https://player-api.new.livestream.com/accounts/6140873/events/2549324/broadcasts/147728405.secure.m3
+https://player-api.new.livestream.com/accounts/6140873/events/2549324/broadcasts/147728405.secure.m3u8?dw=100&hdnea=st=1485439846~exp=1485441646~acl=/i/6140873_2549324_1208994e_1@307429/*~hmac=63c8cfadf5eb5b270b8287fb9875e8011baf5234be1081ed75058f9a1dcc53dc
+#EXTINF:0, https://skaties.lv/zinas/latvija/sabiedriba/mes-esam-mazskaitliski-bet-mums-ir-tadas-zvaigznes-ar-ku
+https://skaties.lv/zinas/latvija/sabiedriba/mes-esam-mazskaitliski-bet-mums-ir-tadas-zvaigznes-ar-kuram-lepojas-ari-citas-tautas-vejonim-aizluzt-balss-runajot-par-latviesu-sasniegumiem/
+#EXTINF:0, https://skystreaming.co/playlist/2bqh8p0hgy/sky.m3u
+https://skystreaming.co/playlist/2bqh8p0hgy/sky.m3u
+#EXTINF:0, https://stream.smcdn.pl/eskatv-t/eskatv_720p/playlist.m3u8?wowzatokenendtime=1510354620&wowzatokenst
+https://stream.smcdn.pl/eskatv-t/eskatv_720p/playlist.m3u8?wowzatokenendtime=1510354620&wowzatokenstarttime=0&wowzatokenhash=GqgHQ1h0ZcKG-LoiIMi879s9Pf_YEHIAj69mydhGNZk
+#EXTINF:0, https://t.co/ACzHOnQAQd
+https://t.co/foTgPC43Em
+#EXTINF:0, HUNgary
+http://37.187.253.95:8000/get.php?username=123456&type=m3u
+#EXTINF:0, I
+http://v.jav101.com/play/avid576b9dceb1039
+#EXTINF:0, Idman TV (Azerbaijan)
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+#EXTINF:0, Ifilm
+rtmp://telewebion.com/live/ifilm-udp-500k
+#EXTINF:0, Imagine Movies
+http://185.9.3.100:4242/udp/239.193.0.151:3301?auth=yes?
+#EXTINF:0, INDIA iptv for Kodi
+http://dynamendra.esy.es/kodi.php?user=110011
+#EXTINF:0, india1
+rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zoomtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=15 timeout=15
+#EXTINF:0, indian and world
+https://crackingitaly.com/topic/40191-iptv-app-unlimited-indpak/
+#EXTINF:0, Indonesia
+http://id.vidiostream.com/137568/rcti_1_270@137568/index.m3u8
+#EXTINF:0, inico
+http://painel.iptvmove.com:80/get.php?username=william0347&password=william037&type=m3u
+#EXTINF:0, ip.sltv.be:8000
+http://ip.sltv.be:8000/get.php?
+#EXTINF:0, IPL
+http://149.202.85.84:8080/SsNysX-Kutta-2050/local/index.m3u8
+#EXTINF:0, IPL
+http://163.172.217.161:8080/ipl/sonymaxhi/playlist.m3u8
+#EXTINF:0, Iptv
+http://50.97.49.87:1935/2847/vch1lsh/playlist.m3u8
+#EXTINF:0, iptv
+https://pastebin.com/raw/M6cBWfWH
+#EXTINF:0, iptv
+http://79.137.31.143:9000/get.php?username=satar7arab&password=vvSVdA5Kn1&type=m3u&output=mpegts
+#EXTINF:0, iptv
+rtmp://pe.live.ksmobile.net/yolo/14955461756085290387
+#EXTINF:0, iptv
+http://cableking-iptv.com:8000/get.php?username=ed1&password=ed1&type=m3u
+#EXTINF:0, iptv
+http://live.tatasky.com.edgesuite.net/48/latest.m3u8
+#EXTINF:0, iptv
+http://iptv.streamkings.co.uk:25461/get.php?username=CVCzEiAc9b&password=OMb5cxrlq0&type=m3u_plus&output=ts
+#EXTINF:0, iptv
+http://stream1.iptvsolution.net:80/playlist?type=m3u&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0, iptv
+http://file.live.ksmobile.net/yolo-14833702741550450423--20170102231820.m3u8
+#EXTINF:0, IPTV
+https:/livetvkodiserbia.com/addonxml/m3u/TV.m3u8
+#EXTINF:0, IPTV
+http://142.44.215.45:25461/get.php?username=mauricio&password=mauricio&type=m3u
+#EXTINF:0, iptv
+http://srv.elitehdbr.vip:8880/get.php?username=web&password=web&type=m3u
+#EXTINF:0, iptv
+http://50.7.222.43:25461/live/engincetiner/131217xy/7042.ts?token
+#EXTINF:0, IPTV
+http://365tv.info:999/get.php?username=K4354fRXkG&password=YnZgo6V6R7&type=m3u&output=ts
+#EXTINF:0, iran film
+http://proxy-63.dailymotion.com/sec(72ec43d8c3d3752ef937c5fc7c16ad59)/frag(2)/video/125/886/72688521_mp4_h264_aac_hq.flv
+#EXTINF:0, Iraqiya Sports
+http://212.7.205.5:1935/sport/live/playlist.m3u8
+#EXTINF:0, IRBV
+rtmp://mellitvrtmp.tulix.tv:1935/m-irib1/m-irib1.stream
+#EXTINF:0, irina_0703
+rtmp://live-ws-pub.muscdn.com/prod
+#EXTINF:0, IT
+http://biwsat.com:8080/get.php?username=rNmrjAeWiH&password=AkDwomgype=m3u
+#EXTINF:0, IT
+http://sonicrevolution.zapto.org:8000/get.php?username=Vince&password=Cogn&type=m3u
+#EXTINF:0, IT
+http://latvmy.ddns.net:6500/get.php?username=vwaoPv7PdE&password=zFHMYG8lBo&type=m3u
+#EXTINF:0, IT
+http://79.16.86.95:9981/playlist
+#EXTINF:0, IT , World
+http://109.236.87.176/get.php?username=Manuel&password=Dani&type=m3u
+#EXTINF:0, ita
+http://iptv.diamondiptv.net:15800/get.php?username=Ernesto1&password=1Ernesto&type=m3u
+#EXTINF:0, Italia
+http://cdnlive1.win/get.php?username=KdQqYChC5x&password=JWDy34IRHA&type=m3u&output=ts
+#EXTINF:0, ITALY
+http://sopoti.comeze.com/italy.m3u
+#EXTINF:0, ITALY
+http://149.202.208.25:5210/get.php?username=NnbXj&password=aPctR0UwLZ&type=m3u
